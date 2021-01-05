@@ -1,3 +1,3 @@
-Je fais mon premier TEST et je decouvre GITHUB :blush:
+Premier TEST, découverte de GITHUB :blush:
 hello!!!
-Prject -> DONE!!!
+Project -> DONE!!!
